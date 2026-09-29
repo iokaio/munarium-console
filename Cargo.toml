@@ -1,0 +1,13 @@
+# SPDX-License-Identifier: Apache-2.0
+[package]
+name = "munarium-console"
+version = "0.1.0-dev"
+edition = "2024"
+rust-version = "1.98"
+license = "Apache-2.0"
+description = "Read-only operator views first, followed by interactions through governed service APIs."
+repository = "https://github.com/iokaio/munarium-console"
+readme = "README.md"
+publish = false
+
+[dependencies]
